@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "module": "es2022",
+        "target": "es2022",
+        "declaration": true,
+        "noEmitOnError": true,
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "outDir": "node"
+    },
+    "include": [
+        "src/add3.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
